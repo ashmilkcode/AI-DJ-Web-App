@@ -1,0 +1,55 @@
+.NOTE{
+    font-size: 20px;
+    color:black;
+}
+
+.appHeading{
+    margin: 0;
+    width: 100%;
+    font-size: 30px;
+}
+
+body{
+    background-size: cover;
+}
+
+img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed{
+    font-size: 30px;
+    margin: 17px;
+}
+
+.divspeed{
+    float: left;
+}
+
+#volume{
+    font-size: 30px;
+    margin: 17px;
+}
+
+.divvolume{
+    float: right;
+}
+
+canvas{
+    border-style: dashed;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 15px;
+}
+
+button{
+    width: 120px;
+    font-size: 25px;
+}
+
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
